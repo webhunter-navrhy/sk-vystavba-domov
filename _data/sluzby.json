@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vystavba",
+    "nazev": "Výstavba",
+    "kratce": "Rodinné domy na kľúč aj bytové a administratívne budovy.",
+    "popis": "Kompletná projektová a architektonická príprava diela a inžinierska činnosť. Stavba rodinných domov na kľúč od štandardného prevedenia až po prevedenie pre náročných zákazníkov vrátane interiéru."
+  },
+  {
+    "id": "rekonstrukcie",
+    "nazev": "Rekonštrukcie",
+    "kratce": "Domy, byty, kancelárie, nadstavby a prístavby.",
+    "popis": "Rekonštrukcie rodinných a bytových domov, bytových jednotiek, nebytových priestorov a kancelárií, nadstavby a prístavby. K službám zabezpečujeme bezplatné poradenstvo a celkovú stavebnú pripravenosť."
+  },
+  {
+    "id": "lesenie",
+    "nazev": "Prenájom lešenia",
+    "kratce": "Trubkové lešenie nad 1000 m² pohľadovej plochy.",
+    "popis": "Trubkové lešenie vhodné najmä na zatepľovanie rodinných domov, vrátane dovozu, odvozu, montáže a demontáže („full servis“)."
+  },
+  {
+    "id": "doprava",
+    "nazev": "Nákladná doprava",
+    "kratce": "Cestná doprava do 24 t, prenájom nákladných áut do 3,5 t.",
+    "popis": "Prepravné služby tovarov v rámci Európskej únie kvalitným vozovým parkom a profesionálnymi vodičmi s dlhoročnými skúsenosťami."
+  }
+]

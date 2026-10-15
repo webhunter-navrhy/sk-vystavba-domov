@@ -1,0 +1,42 @@
+{
+  "stavebne": [
+    "Zemné a výkopové práce",
+    "Zakladanie stavieb",
+    "Hrubé stavby a murárske práce",
+    "Tesárske práce, montáž krovu a krytiny",
+    "Klampiarske práce",
+    "Elektroinštalačné práce",
+    "Vodoinštalačné práce",
+    "Plynoinštalačné práce",
+    "Komplexné kúrenárske práce",
+    "Čistenie a krtkovanie kanalizácie",
+    "Vnútorné a vonkajšie omietky",
+    "Poterové betóny",
+    "Zatepľovacie systémy",
+    "Fasádne omietky",
+    "Sadrokartónové systémy",
+    "Maľby a nátery",
+    "Zámková dlažba – parkoviská, terasy, chodníky",
+    "Prenájom stavebných strojov",
+    "Projektová dokumentácia a stavebný inžiniering",
+    "Technický dozor stavieb"
+  ],
+  "referencie": [
+    "Novostavba Čunovo",
+    "Novostavba rodinného domu Grob",
+    "Bazén – Bratislava",
+    "Aupark – oplechovanie",
+    "WC obecný úrad Dunajská Lužná",
+    "Chodníky – Pezinok",
+    "Fasáda a chodníky – Dunajská Lužná",
+    "Rekonštrukcia bytu – Bratislava Petržalka",
+    "Podkrovie – Dunajská Lužná",
+    "Rekonštrukcia strechy – Bratislava",
+    "Rekonštrukcia sociálnych zariadení – Modra",
+    "Záhradný domček – Pezinok",
+    "Novostavba rodinných domov – Rusovce",
+    "Obnova fasády rodinného domu – Dunajská Lužná",
+    "Oplotenie zásobníka plynu",
+    "Nadstavba a zateplenie rodinného domu – Dunajská Lužná"
+  ]
+}

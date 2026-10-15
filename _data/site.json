@@ -1,0 +1,51 @@
+{
+  "slug": "sk-vystavba-domov",
+  "nazev": "E&I Group Slovakia, s.r.o.",
+  "url": "https://webhunter-navrhy.github.io/sk-vystavba-domov/",
+  "base": "/sk-vystavba-domov/",
+  "lang": "sk",
+  "popis": "E&I Group Slovakia, Dunajská Lužná: výstavba a rekonštrukcie rodinných a bytových domov, prenájom lešenia a nákladná doprava do 24 t.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "dom-moderny.jpg",
+  "logo": "logo.png",
+  "theme_color": "#ffffff",
+  "typ": "LocalBusiness",
+  "ico": "36685585",
+  "kontakt": {
+    "email": "info@vystavba-domov.sk",
+    "telefon": "+421 903 796 691",
+    "adresa": {
+      "ulice": "Brezová 717/8",
+      "psc": "900 42",
+      "mesto": "Dunajská Lužná",
+      "zeme": "SK"
+    }
+  },
+  "oteviraci_doba": [],
+  "sameas": [],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Dopyt z webu"
+  },
+  "nav": [
+    {
+      "text": "Služby",
+      "href": "#sluzby"
+    },
+    {
+      "text": "Doprava",
+      "href": "#doprava"
+    },
+    {
+      "text": "Realizácie",
+      "href": "#realizacie"
+    },
+    {
+      "text": "Kontakt",
+      "href": "#kontakt"
+    }
+  ]
+}
